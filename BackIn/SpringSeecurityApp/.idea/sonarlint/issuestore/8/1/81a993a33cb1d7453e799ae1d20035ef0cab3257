@@ -1,0 +1,12 @@
+
+£
+java:S1488G"`Immediately return this expression instead of assigning it to the temporary variable "jwtToken".(ø¸ÂÃ8õÇÏöı1J$f5745199-9949-4d39-a144-262a2f6f9fa7
+ª
+java:S1488a"bImmediately return this expression instead of assigning it to the temporary variable "decodedJWT".(›ÑÒ‚ıÿÿÿÿ8€¶Ìöı1J$c650dec3-de4d-4b7d-a9d4-c44c7c924abf
+}	java:S125#"<This block of commented-out lines of code should be removed.(…óä8ó±Ğöı1J$aad7a647-4257-4e19-8812-04ab43253d68
+m	java:S106A"+Replace this use of System.out by a logger.(º¥‚à8ó—Úöı1J$c3680d92-0775-4a9e-9c10-5abc9208b3c6
+L	java:S106d"+Replace this use of System.out by a logger.(òáÊ¥ùÿÿÿÿ8ÂšŠ¢ş1
+Œ
+java:S1858p"D"getSubject" returns a string, there's no need to call "toString()".(”’ª†ÿÿÿÿÿ8‚ÕËãı1J$2f2aa3d4-5fe2-45be-8c40-972d8b408a54
+|
+java:S1128"4Remove this unused import 'java.security.PublicKey'.(ºâú½üÿÿÿÿ8ƒ²Ğöı1J$b30a4011-000a-40cd-8a29-efc5abaf5ccd

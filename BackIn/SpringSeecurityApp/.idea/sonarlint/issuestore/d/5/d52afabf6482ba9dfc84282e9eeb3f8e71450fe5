@@ -1,0 +1,9 @@
+
+r	java:S106&"+Replace this use of System.out by a logger.(ÎéØ¥ıÿÿÿÿ8™îş1J$4ce9d673-c1cc-409e-914d-3519865008b2
+m	java:S106'"+Replace this use of System.out by a logger.(É·²‹8™îş1J$a927bbc3-e37f-48f0-8dd8-52fad4c2e9b8
+r	java:S106)"+Replace this use of System.out by a logger.(ƒÏŸ¬üÿÿÿÿ8™îş1J$f46b0f1a-059e-4134-be1a-fcb7bfe4cb05
+m	java:S106*"+Replace this use of System.out by a logger.(›°˜Ä8™îş1J$7639f975-a168-4c4e-b962-e61ef0192b0c
+~	java:S125,"<This block of commented-out lines of code should be removed.(Š×Ÿõ8™îş1J$1545a07f-704b-4268-9f6b-24db466d89f0
+m	java:S1061"+Replace this use of System.out by a logger.(¶ÊÄõ8™îş1J$d663c99e-a85e-4bdd-9b14-1b1e5cc12f8f
+q
+java:S1128".Remove this unused import 'com.auth0.jwt.JWT'.(å©ğ›8™îş1J$b5b35f77-8e1d-46c4-9db2-dac8fc80c507

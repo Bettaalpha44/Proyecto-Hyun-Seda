@@ -1,0 +1,33 @@
+
+
+java:S1192J"KDefine a constant instead of duplicating this literal "SUPERADMIN" 7 times.(Æ€¦§8­È„£€2J$25f0d3e8-4b79-4327-baa4-16fa9784aa91
+‰
+java:S1192J"FDefine a constant instead of duplicating this literal "ADMIN" 7 times.(Æ€¦§8®È„£€2J$9181fd25-88b6-4dc0-b81e-9ba7c2807bbe
+…
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÉÈ„£€2J$eb224ef6-b9cc-44b9-b5de-84ebf1432cfa
+…
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÙÈ„£€2J$d7aab828-8ef6-4479-bc67-a901e895baa8
+Ÿ
+java:S3305("\Inject this field value directly into "authenticationManager", the only method that uses it.(À×Ë­8ÚÈ„£€2J$b3f3a610-2873-473e-8af9-84bc9caf99de
+
+java:S3305*"ZInject this field value directly into "securityFilterChain", the only method that uses it.(çãˆâ8ÚÈ„£€2J$f8f3e415-96a2-4e24-b807-27ff8527ce05
+~	java:S125G"<This block of commented-out lines of code should be removed.(£„ñó8áÈ„£€2J$81102e50-67d8-4be2-aeb1-bce34f5a5e59
+}	java:S125N"<This block of commented-out lines of code should be removed.( İû8û¾–¤€2J$dba9be99-55e0-40b6-9d0e-1627f54a7fff
+~	java:S125a"<This block of commented-out lines of code should be removed.(·Üåë8æÈ„£€2J$6b931d96-83bb-4c75-9e6a-501594454c68
+„	java:S125"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8ÍìæÉ€2J$dd9e420a-f538-4911-8d25-ee75ed667d74
+‰
+java:S1128"ARemove this unused import 'org.springframework.cglib.proxy.NoOp'.(Òñá®üÿÿÿÿ8ğÚºÀ€2J$b708978f-9cc1-4bbc-88ee-a2b8c51ec3c2
+’
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€8ğÚºÀ€2J$b3400a28-af1b-4240-89e2-42367d8ecc83
+™
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8ñÚºÀ€2J$175046e9-2edb-46f3-b8bc-605baee1cb25
+ 
+java:S1128"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥à8ñÚºÀ€2J$6031b810-8cb4-4b73-a06a-e6448a9ae5d5
+ 
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.password.NoOpPasswordEncoder'.(ƒ»ÅÅ8ñÚºÀ€2J$1784356e-9172-4659-8299-4343bb0fb7e2
+©
+java:S1128"aRemove this unused import 'org.springframework.security.provisioning.InMemoryUserDetailsManager'.(îŒúùÿÿÿÿ8ñÚºÀ€2J$762beb09-64ad-496e-9590-31d519d00c1f
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8òÚºÀ€2J$dbbe5f88-0770-48fc-8eba-b39f11cc771d
+s
+java:S1128 "+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8òÚºÀ€2J$bab711de-1f9f-4211-a111-3d9339089204

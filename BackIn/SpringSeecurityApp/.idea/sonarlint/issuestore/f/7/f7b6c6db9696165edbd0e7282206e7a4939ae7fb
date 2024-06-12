@@ -1,0 +1,30 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ìàûÿÿÿÿ8çê»•€2J$d63dc886-18da-4ea5-bcc7-a7baa233192d
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8öê»•€2J$515f75f8-588e-49e2-8877-aad72b98a8d0
+v
+java:S6837$"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8öê»•€2J$632ad399-06ca-466d-98db-a597b1130958
+v
+java:S6837/"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8öê»•€2J$a0cc5224-5703-42c8-93a5-50d8ea0e2b7a
+v
+java:S6837?"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8öê»•€2J$b1694dea-f3c8-4bae-8a87-f473a209a6ca
+v
+java:S6837M"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8öê»•€2J$51751d8d-be2a-4a76-9e2c-271a0805cfc1
+v
+java:S6837S"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8•ÀÙ«€2J$3fddfd63-d4d0-4082-b992-c89e08b07754
+m	java:S106&"+Replace this use of System.out by a logger.(«Ü8†ë»•€2J$81a23fd4-0cf4-4d4a-a477-2f07961c690c
+~	java:S125*"<This block of commented-out lines of code should be removed.(úæÓ÷8†ë»•€2J$03601b45-0d8f-46b9-92a6-fd572044b185
+m	java:S106B"+Replace this use of System.out by a logger.(ÕÎ×Ì8†ë»•€2J$dbbedfaa-b704-4574-961f-f03acc24393e
+j
+java:S1905O"'Remove this unnecessary cast to "List".(æ¡¹ã8†ë»•€2J$4c06478a-bc5c-4eca-aaa3-5bfefb7faa09
+m	java:S106U"+Replace this use of System.out by a logger.(Ìññ8ÀÙ«€2J$ddeda007-bf62-4831-848d-7c1bf53debbe
+‡
+java:S1128"DRemove this unused import 'com.app.Controller.dto.AuthLoginRequest'.(òı“ƒ8†ë»•€2J$0112c515-149a-405f-8608-b5ec66659e68
+ˆ
+java:S1128"@Remove this unused import 'com.app.Controller.dto.AuthResponse'.(’úä‰ıÿÿÿÿ8†ë»•€2J$620e4b02-0daa-453c-a354-75ffc3f86af4
+ˆ
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ8†ë»•€2J$c2ef093e-cc24-4100-a5be-fe7b8fc60029
+Œ
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8†ë»•€2J$b06dd73a-eb68-461d-9307-fc7cfc21177f
+
+java:S1128"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿ8†ë»•€2J$6e9ddca2-d592-45a4-a882-5abe0c82e784

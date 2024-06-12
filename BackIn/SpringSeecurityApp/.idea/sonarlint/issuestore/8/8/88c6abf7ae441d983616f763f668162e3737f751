@@ -1,0 +1,9 @@
+
+š
+java:S1192P"}Define a constant instead of duplicating this literal "$2a$10$9S1S8yt5B4xNFxzhv2kuGub54d1CmdodfKISDYyEicFVtUHgKynM6" 3 times.(¹üèä8ð¦úã€2
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎæÛ‹øÿÿÿÿ8ô¦úã€2
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å×‰‡øÿÿÿÿ8õ¦úã€2
+r	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òê’‡ýÿÿÿÿ8ö¦úã€2
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÌ…Ì8÷¦úã€2
+]	java:S125?"<This block of commented-out lines of code should be removed.(¶ß‘þÿÿÿÿ8§úã€2
+]	java:S125l"<This block of commented-out lines of code should be removed.(¶ß‘þÿÿÿÿ8•§úã€2

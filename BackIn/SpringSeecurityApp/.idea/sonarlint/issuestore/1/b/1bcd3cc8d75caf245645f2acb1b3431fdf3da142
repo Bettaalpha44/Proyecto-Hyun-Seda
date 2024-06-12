@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ìàûÿÿÿÿ8ÀÒ¶ª€2J$2fc08274-6c87-45f9-ba67-e04ade8c3ef1
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÊÒ¶ª€2J$0d3b77e9-db4c-4ed2-8275-c3183c221f78
+v
+java:S6837#"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8°«ç«€2J$11f302b8-a267-4e93-98de-53fea2797357
+r	java:S106"+Replace this use of System.out by a logger.(ÀÅêÿÿÿÿÿ8ÔÒ¶ª€2J$23bd00af-44a6-4737-8a8a-830e0ee3bacc
+m	java:S106%"+Replace this use of System.out by a logger.(Ìññ8·«ç«€2J$8cabcb86-a00c-44a3-903a-b8b4aab5fb27

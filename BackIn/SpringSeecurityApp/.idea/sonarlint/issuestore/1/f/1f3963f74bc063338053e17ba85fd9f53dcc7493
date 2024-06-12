@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ìàûÿÿÿÿ8‚¿¤Æ€2J$5823f4e0-8c00-4ca9-93d5-d9b600ddac71
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‰¿¤Æ€2J$033d7035-8d65-4d80-ba52-dca381f29e0e
+v
+java:S6837"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8‹¿¤Æ€2J$5e906506-48cb-4ab6-a4b5-bda572d8bd1a
+v
+java:S6837""3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8Œ¿¤Æ€2J$9ccffd9d-d69d-44f2-89e3-374f5e077e0e
+
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ííõÖùÿÿÿÿ8¿¤Æ€2J$e55111ee-a77e-460e-ab4c-90832db32686
+o
+java:S1905"'Remove this unnecessary cast to "List".(ı•ùëüÿÿÿÿ8¿¤Æ€2J$7d1685a2-97a0-46c8-ab96-9e18ce786bd5

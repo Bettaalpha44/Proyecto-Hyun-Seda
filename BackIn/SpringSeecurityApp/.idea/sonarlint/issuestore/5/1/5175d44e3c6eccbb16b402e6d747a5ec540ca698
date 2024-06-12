@@ -1,0 +1,51 @@
+
+‰
+java:S11928"FDefine a constant instead of duplicating this literal "ROLE_" 3 times.(³„ŞÙ8ª²ÑÓ€2J$09a279c4-2a85-4899-aec8-61cfc0841e99
+“
+java:S11923"KDefine a constant instead of duplicating this literal " no existe" 5 times.(ˆ·¸áüÿÿÿÿ8ª²ÑÓ€2J$d256b078-e940-400e-af43-a77712c08f94
+¬
+java:S1488u"dImmediately return this expression instead of assigning it to the temporary variable "authResponse".(Î¹åœıÿÿÿÿ8¬²ÑÓ€2J$7c4aa25b-6013-4b14-8b67-435f121bd347
+­
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "authResponse".(¨öÆ¼ûÿÿÿÿ8¬²ÑÓ€2J$400e030b-1005-42b8-9359-86c93e9287b4
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ù²ÑÓ€2J$ce91ea47-317c-47a2-8bf5-90233546063a
+…
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ù²ÑÓ€2J$7327d2c5-4614-495b-8d28-2144b4b97b23
+…
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄŞ8Ù²ÑÓ€2J$477ccdac-e523-4968-8127-3a821448c893
+…
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ù²ÑÓ€2J$9813795e-2307-41f2-9eae-75b72be4b7ac
+ 
+java:S2229Ô"\"loadUserByEmail's" @Transactional requirement is incompatible with the one for this method.(Èë—8Û²ÑÓ€2J$4f65da09-0ca6-4b73-b98b-eb5fcd3a5a7e
+¨
+java:S2229Æ"_"loadUserByUsername's" @Transactional requirement is incompatible with the one for this method.(«ÈÈŞıÿÿÿÿ8Û²ÑÓ€2J$a74215e9-2edf-4839-bd34-d6dfd87e7b8d
+~	java:S125^"<This block of commented-out lines of code should be removed.(«µ©â8à„ÔÓ€2J$ea0bba47-c231-43c6-b543-8390b00de5e3
+m	java:S106p"+Replace this use of System.out by a logger.(ğæï¨8è²ÑÓ€2J$d236d5ab-d940-45cc-964c-41b2c9f8aceb
+’
+java:S1854™"IRemove this useless assignment to local variable "securityContextHolder".(™¬»øÿÿÿÿ8ê²ÑÓ€2J$b0049a7c-b5a1-4e13-87cc-86adb732ba58
+r	java:S106"+Replace this use of System.out by a logger.(ŠÇõØúÿÿÿÿ8ê²ÑÓ€2J$d0a77c4b-eeef-4a39-8933-e7658da486ee
+n	java:S106€"+Replace this use of System.out by a logger.(ÁÕ§˜8ë²ÑÓ€2J$fc584d2f-39d2-43f5-9257-c99a609a2e47
+n	java:S106Š"+Replace this use of System.out by a logger.(íşıç8ì²ÑÓ€2J$c51deee4-fcfc-4c5c-baa8-1648a73e5844
+ƒ
+java:S1481™":Remove this unused "securityContextHolder" local variable.(™¬»øÿÿÿÿ8ï²ÑÓ€2J$64bd79ec-c07d-4b11-876a-23ac0ca8960b
+
+java:S6809Â"UCall transactional methods via an injected dependency instead of directly via 'this'.(Œª±Ôøÿÿÿÿ8ò²ÑÓ€2J$7f9a4d67-d93a-4f9b-94da-47160e3901c1
+™
+java:S6809Ö"UCall transactional methods via an injected dependency instead of directly via 'this'.(ßä‡8ô²ÑÓ€2J$23cdc053-af5b-46f9-b2c1-b70281c4ce38
+	java:S125â"<This block of commented-out lines of code should be removed.(´ÊˆÙ8ö²ÑÓ€2J$729e6b8a-5953-4a1f-ae75-1e130134e777
+	java:S125ë"<This block of commented-out lines of code should be removed.(½Ìÿ¡8÷²ÑÓ€2J$6aa4b179-a8a5-4385-8a30-6e3cc0937e9a
+n	java:S106‡"+Replace this use of System.out by a logger.(Í¯¥ô8÷²ÑÓ€2J$afdfe33a-b099-4f32-99f7-16c27dfb53cc
+n	java:S106’"+Replace this use of System.out by a logger.(”ÛüÑ8ø²ÑÓ€2J$3e5ebb08-c8cc-463b-93dd-04419f7880fc
+n	java:S106—"+Replace this use of System.out by a logger.(Çè›†8ø²ÑÓ€2J$11095581-6b1b-49f6-9775-c423f5b082a1
+n	java:S106›"+Replace this use of System.out by a logger.(ä ¿Î8ø²ÑÓ€2J$3cf9202a-aae7-4d94-a252-49edfb39dcd8
+s	java:S106"+Replace this use of System.out by a logger.(ıˆïµüÿÿÿÿ8ù²ÑÓ€2J$cacab3ca-c0c2-4252-af65-1493767d215c
+	java:S125©"<This block of commented-out lines of code should be removed.(Ø²‹8ú²ÑÓ€2J$2980b3f4-6f23-4af8-ad89-eae5f05d3408
+n	java:S106²"+Replace this use of System.out by a logger.(Âİ“´8ú²ÑÓ€2J$62d997ca-2d30-44e9-b4df-c0ac1099b18c
+
+java:S6809Æ"UCall transactional methods via an injected dependency instead of directly via 'this'.(«ÈÈŞıÿÿÿÿ8û²ÑÓ€2J$0ab922cc-d365-4475-9019-b75d4d2d5ead
+n
+java:S3457É"%String contains no format specifiers.(¸®ôåùÿÿÿÿ8ü²ÑÓ€2J$7efd868d-b7bd-4f5c-80c8-316558725515
+™
+java:S6809Ô"UCall transactional methods via an injected dependency instead of directly via 'this'.(Èë—8ü²ÑÓ€2J$394f03d3-822c-432c-af2f-e4795fdead64
+n
+java:S3457×"%String contains no format specifiers.(µÊˆÊıÿÿÿÿ8ı²ÑÓ€2J$73f0dedb-986b-489d-a404-3a7ee85d6ed5

@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÀ¯Ä8²ÚÀÓ€2
+X	java:S125"<This block of commented-out lines of code should be removed.(®ëü8µÚÀÓ€2
+W	java:S125&"<This block of commented-out lines of code should be removed.(éè.8µÚÀÓ€2
+]	java:S1256"<This block of commented-out lines of code should be removed.(‡ı—úÿÿÿÿ8µÚÀÓ€2
+X	java:S125C"<This block of commented-out lines of code should be removed.(»Œ—ß8µÚÀÓ€2
+b
+java:S1128"@Remove this unused import 'com.app.Persistence.Entity.RoleEnum'.(ù¡éÚûÿÿÿÿ8¸ÚÀÓ€2
