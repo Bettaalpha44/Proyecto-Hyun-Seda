@@ -1,3 +1,5 @@
+El proyecto está en la rama MASTER
+
 # HyunSeda
 Ingeniería de software II  
 Entrega final  
